@@ -12,6 +12,7 @@ theme = "hugo-minimalist-theme"
 # It allows you to preview the theme within the exampleSite folder
 # with the hugo server command
 
+
 [params]
     site_author = "Chulmin Lee"
     site_description = "The blog of Mimi & Chulmin"

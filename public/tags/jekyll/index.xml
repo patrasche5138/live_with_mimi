@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jekyll on Life with Mimi</title>
-    <link>/tags/jekyll/</link>
+    <link>/tags/jekyll.html</link>
     <description>Recent content in Jekyll on Life with Mimi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
@@ -14,10 +14,10 @@
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>/post/migrate-from-jekyll/</link>
+      <link>/post/migrate-from-jekyll.html</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>/post/migrate-from-jekyll/</guid>
+      <guid>/post/migrate-from-jekyll.html</guid>
       <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 
 &lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
