@@ -17,7 +17,7 @@ theme = "hugo-minimalist-theme"
     site_description = "The blog of Mimi & Chulmin"
     location = "Beautiful place"
     # Link custom assets relative to /static
-    avatar = "img/chulmin.png"
+    avatar = "img/chulmin.jpg"
     header_background = "img/life_sky2.jpg"
     header_title = "Life with Mimi"
     copyright = "Chulmin Lee"
