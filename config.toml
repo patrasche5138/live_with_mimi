@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "John Doe's blog"
+languageCode = "utf-8"
+title = "Life with Mimi"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
@@ -13,14 +13,14 @@ theme = "hugo-minimalist-theme"
 # with the hugo server command
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
-    location = "Earth"
+    site_author = "Chulmin Lee"
+    site_description = "The blog of Mimi & Chulmin"
+    location = "Beautiful place"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
-    header_title = "Customizable header title"
-    copyright = "Powered by [Hugo](http://gohugo.io)."
+    avatar = "img/chulmin.png"
+    header_background = "img/life_sky2.jpg"
+    header_title = "Life with Mimi"
+    copyright = "Chulmin Lee"
     custom_css = []
     custom_js  = []
 
@@ -37,5 +37,5 @@ theme = "hugo-minimalist-theme"
     behance   = ""
     dribbble  = ""
     instagram = ""
-    github    = "digitalcraftsman"
+    github    = "patrasche5138"
     gplus     = ""

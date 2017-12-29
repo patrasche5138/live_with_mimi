@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>John Doe&#39;s blog</title>
+    <title>Life with Mimi</title>
     <link>/</link>
-    <description>Recent content on John Doe&#39;s blog</description>
+    <description>Recent content on Life with Mimi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
+    <language>utf-8</language>
+    <copyright>Chulmin Lee</copyright>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
