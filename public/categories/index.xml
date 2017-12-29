@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Life with Mimi</title>
-    <link>/categories.html</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Life with Mimi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
@@ -13,28 +13,28 @@
     
     <item>
       <title>R</title>
-      <link>/categories/r.html</link>
+      <link>/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/categories/r.html</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>데이터분석</title>
-      <link>/categories/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.html</link>
+      <link>/categories/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.html</guid>
+      <guid>/categories/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/</guid>
       <description></description>
     </item>
     
     <item>
       <title>출근</title>
-      <link>/categories/%EC%B6%9C%EA%B7%BC.html</link>
+      <link>/categories/%EC%B6%9C%EA%B7%BC/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/%EC%B6%9C%EA%B7%BC.html</guid>
+      <guid>/categories/%EC%B6%9C%EA%B7%BC/</guid>
       <description></description>
     </item>
     

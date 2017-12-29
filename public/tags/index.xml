@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Life with Mimi</title>
-    <link>/tags.html</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Life with Mimi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
@@ -14,91 +14,91 @@
     
     <item>
       <title>Hugo</title>
-      <link>/tags/hugo.html</link>
+      <link>/tags/hugo/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>/tags/hugo.html</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>/tags/jekyll.html</link>
+      <link>/tags/jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>/tags/jekyll.html</guid>
+      <guid>/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migration</title>
-      <link>/tags/migration.html</link>
+      <link>/tags/migration/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>/tags/migration.html</guid>
+      <guid>/tags/migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot</title>
-      <link>/tags/plot.html</link>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot.html</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r.html</link>
+      <link>/tags/r/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r.html</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown.html</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown.html</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>/tags/regression.html</link>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression.html</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>경기도</title>
-      <link>/tags/%EA%B2%BD%EA%B8%B0%EB%8F%84.html</link>
+      <link>/tags/%EA%B2%BD%EA%B8%B0%EB%8F%84/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/%EA%B2%BD%EA%B8%B0%EB%8F%84.html</guid>
+      <guid>/tags/%EA%B2%BD%EA%B8%B0%EB%8F%84/</guid>
       <description></description>
     </item>
     
     <item>
       <title>데이터분석</title>
-      <link>/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.html</link>
+      <link>/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.html</guid>
+      <guid>/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/</guid>
       <description></description>
     </item>
     
     <item>
       <title>버스</title>
-      <link>/tags/%EB%B2%84%EC%8A%A4.html</link>
+      <link>/tags/%EB%B2%84%EC%8A%A4/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/%EB%B2%84%EC%8A%A4.html</guid>
+      <guid>/tags/%EB%B2%84%EC%8A%A4/</guid>
       <description></description>
     </item>
     
