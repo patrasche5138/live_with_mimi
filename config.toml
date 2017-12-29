@@ -19,7 +19,7 @@ theme = "hugo-minimalist-theme"
     location = "Beautiful place"
     # Link custom assets relative to /static
     avatar = "img/chulmin.jpg"
-    header_background = "img/life_sky2.jpg"
+    header_background = "img/life_with_mimi.jpg"
     header_title = "Life with Mimi"
     copyright = "Chulmin Lee"
     custom_css = []
