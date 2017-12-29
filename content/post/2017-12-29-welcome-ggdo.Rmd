@@ -13,7 +13,7 @@ tags:
   - 버스
 ---
 
-**## 결혼 - Beginning of new life**
+<h3>**결혼 - Beginning of new life**</h3>
 
 딴딴따다~~ 딴딴따다~<br>
 드디어 꿈에 그리던 아름다운 그녀와 1년간의 연애 끝에 결혼을 하게 되었다.<br>
@@ -30,7 +30,7 @@ tags:
 출근 하기 전까지는…
 <br /><br />
 
-<span style="color:red">**## 출근 - The beginning of red bus**</span>
+<span style="color:red"><h3>**출근 - The beginning of red bus**</h3></span>
 
 살던집을 정리하고.. <br>
 동탄에서 이제 출퇴근을 하게 되었다.<br>
@@ -48,13 +48,16 @@ tags:
 <br>
 <br>
 <br>
+<br><br>
+<br>
+<br><br>
 <br>
 <br>
 
 <div style="text-align:center">![어서와 경기도 버스 처음이지?](https://c1.staticflickr.com/5/4595/39335269972_0a17ea1f99_z.jpg)</div>
-어서와 경기도 버스 처음이지?<br>
+<br><br>
+<div style="text-align:center"><h2>**어서와 경기도 버스 처음이지?**</h2></div><br>
 <br>
-
 우리집이 고속도로 타기 바로 직전에 있어서 <br>
 버스가 우리집 앞 정류장에 올때 쯤이면 앉을 자리가 없어지는 것 같았다.<br>
 그래서 일찍 출근을 해보기로 했다. <br>
@@ -62,8 +65,8 @@ tags:
 **오늘은 앉아서 갈 수 있을꺼야..** <br>
 **설마 6시 반인데..** <br>
 간절한 마음으로 버스를 기다렸으나.. 
-<br>
-<h2>**0석..**</h2>  <br>
+<br><br><br>
+<div style="text-align:center"><h2>**0석...**</h2></div><br><br>
 두둥... ㅜㅜ<br>
 
 <div style="text-align:center">![헐.... ](https://c1.staticflickr.com/5/4726/27588032549_ac73fd46f6_n.jpg)</div>
@@ -76,9 +79,9 @@ tags:
 두정거장 전인데 버스에 좌석이 **20석**이 넘게 남아 있는 것을 발견했다. <br>
 
 <div style="text-align:center">![아하!!](https://c1.staticflickr.com/5/4638/38657367884_926103262c_n.jpg)</div>
-<br />
-
-아하!! 사람은 머리를 써야해!! <br>
+<br><br>
+<h3>**오호!!! 사람은 머리를 써야해!!**</h3><br>
+<br>
 지금 내려서 길 건너서 버스를 타면 앉아 갈수 있겠구나~ 아싸~~!! <br>
 버스에서 후다닥 내려 길을 건너려 신호를 기다리고 있었다. <br>
 신호를 기다리고 있는데.. <br>
@@ -89,9 +92,10 @@ tags:
 <br>
 <br>
 
-<div style="text-align:center">![나랑 같이가!!](https://c1.staticflickr.com/5/4594/25495810418_07e3facfee_z.jpg)</div>
-<h2>**나를 태워주고 가란 말이다!!!!!!!!!!!!!!**</h2><br>
-<br />
+<div style="text-align:center">![나랑 같이가!!](https://c1.staticflickr.com/5/4594/25495810418_07e3facfee_z.jpg)
+<br><br>
+<h2>**나를 태워주고 가란 말이다!!!!!!!!!!!!!!**</h2></div><br>
+<br>
 
 그렇게 버스는 여유좌석을 몇십석이나 넘게 남겨두고 나를 두고 떠나 버렸고.. <br>
 나는 그 자리에서 20분간 추위에 떨며 다음 버스를 기다렸다. <br>
@@ -99,25 +103,25 @@ tags:
 
 하지만 내가 기다리던 정류장에 버스가 왔을땐 **0석**이 된 후였다. <br>
 
-<div style="text-align:center">![아아아아ㅏㅏ ㅏ아ㅏㅇ](https://c1.staticflickr.com/5/4595/39335270982_1af5a96d6b_n.jpg)</div>
-**아아아ㅇ아ㅏㅏㅏ아아ㅏㅏㅏ나아ㅏ아아ㅏ아아** <br>
-<br />
-
+<div style="text-align:center">![아아아아ㅏㅏ ㅏ아ㅏㅇ](https://c1.staticflickr.com/5/4595/39335270982_1af5a96d6b_n.jpg)<br>
+**아아아ㅇ아ㅏㅏㅏ아아ㅏㅏㅏ나아ㅏ아아ㅏ아아**</div><br>
+<br>
 서울에서도 버스보다 지하철을 자주 이용하던 편이 였고.. <br>
 연애하기 전까지도 마을버스나 타고 다녔지 버스에 익숙하지 않았다. <br>
 그래서 그런지 경기도 버스는 이용하기가 더 어색했다.<br>
 예전에는 그냥 지나치던 버스타는 줄이 이제 나에게 현실이 되어 버리다니…<br>
-버스를 40분 넘게 타야 하는데.. <br>
-<h2>**서서 가기에는 너무 싫었다.**<h2><br>
+버스를 40분 넘게 타야 하는데.. <br><br>
+<h3>**서서 가기에는 너무 싫었다.**<h3><br>
 <br>
-<br>
+<br><br>
 하지만 불평만 할 수는 없는법!! 
 <br>
 어떻게든 살아남아야 한다!! ^^<br>
 
-<div style="text-align:center">![그래!! 결심했어!!](https://c1.staticflickr.com/5/4726/25495810168_b673de3952_n.jpg)</div>
-<br />
-그래서 시작을 했다. <br>
+<div style="text-align:center">![그래!! 결심했어!!](https://c1.staticflickr.com/5/4726/25495810168_b673de3952_n.jpg)
+<br>
+<h3>**그래!! 결심했어!!**</h3></div><br><br>
 **내가 편하게 앉아서 갈수 있는 버스 시간과 노선을 알아보기로..** <br>
 
-<div style="text-align:center">![To be continued..](https://c1.staticflickr.com/5/4640/38487924645_8302517b38_b.jpg)</div>
+<div style="text-align:center">![To be continued..](https://c1.staticflickr.com/5/4640/38487924645_8302517b38_b.jpg)<br>
+<h3>**To be continued**</h3></div>
