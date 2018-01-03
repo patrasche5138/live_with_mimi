@@ -45,76 +45,49 @@
         <article class="post">
             <a class="btn home" href="/" title="Back to home">&laquo; Back to home</a>
             
-<h1><a href="/post/2015-07-23-r-rmarkdown/" title="Hello R Markdown">Hello R Markdown</a></h1>
+<h1><a href="/post/welcome-ggdo2/" title="welcome-ggdo2">welcome-ggdo2</a></h1>
 
-<footer class="post-info">Posted on <span class="post-meta"><time datetime="2015.07.23">2015.07.23</time>
+<footer class="post-info">Posted on <span class="post-meta"><time datetime="2018.01.03">2018.01.03</time>
 
     &middot; Tagged in
         
-        <a href="/tags/r-markdown">r markdown</a>, 
+        <a href="/tags/%EB%B2%84%EC%8A%A4">버스</a>, 
         
-        <a href="/tags/plot">plot</a>, 
+        <a href="/tags/%EA%B2%BD%EA%B8%B0%EB%8F%84">경기도</a>, 
         
-        <a href="/tags/regression">regression</a>
+        <a href="/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D">데이터분석</a>
         
     
 
 </span>
 </footer>
 
-            <div id="r-markdown" class="section level1">
-<h1>R Markdown</h1>
-<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
-<p>You can embed an R code chunk like this:</p>
-<pre class="r"><code>summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &lt;- lm(dist ~ speed, data = cars)
-fit
+            <pre><code>## 
+## Attaching package: &#39;shiny&#39;</code></pre>
+<pre><code>## The following objects are masked from &#39;package:DT&#39;:
 ## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932</code></pre>
-</div>
-<div id="including-plots" class="section level1">
-<h1>Including Plots</h1>
-<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
-<pre class="r"><code>par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
-  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
-  init.angle = -50, border = NA
-)</code></pre>
-<div class="figure"><span id="fig:pie"></span>
-<img src="/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
-<p class="caption">
-Figure 1: A fancy pie chart.
-</p>
-</div>
-</div>
+##     dataTableOutput, renderDataTable</code></pre>
+<h3>
+<strong>과연 언제 어디에서 버스를 타야 앉아서 출근 할 수 있을까?</strong>
+</h3>
+<p>버스를 타기위해 버스앱을 자주 이용한다. 앱을 보면 버스의 도착예상시간, 여유좌석 정보를 제공하고 있다. 그래서 분명 어디선가에서 이 정보를 제공하고 있을 거라는 생각에 찾아보니 <a href="gbis.go.kr">굿모닝 경기 경기버스정보</a>에서 버스관련 여러 데이터를 무료로 제공하고 있었다. 아쉬운점은 뒤에도 이야기 하겠지만 하루에 1000건 밖에 API호출이 안된다는 것이다.</p>
+<p>API를 이용하기 위해서는 우선 공공데이터 포털에 등록을 하고, KEY를 받아야 한다. Key를 받았으면 그 키를 이용해 버스관련 여러 정보를 받을 수 있다. 자세한 내용은 (API로 버스 데이터 수집하기) 참조</p>
+<iframe data-deferred-src="app9cfc26129cfe50aa6e0a090ec06fdc8b/?w=&amp;__subapp__=1" width="100%" height="500" class="shiny-frame shiny-frame-deferred"></iframe>
+<p>우선 경기도 버스리스트와 정류장 (POI)데이터를 다운 받은후 화성시에서 강남구로 가는 버스와 그 버스가 정차하는 정류장 들을 찾아보았다. 몰랐는데 여러 버스들이 동탄에서 강남구로 가고 있었다.</p>
 
             <ul class="share-buttons">
     <li>Share this article:</li>
     <li>
-        <a class="icon-facebook-squared" href="https://www.facebook.com/sharer/sharer.php?u=%2fpost%2f2015-07-23-r-rmarkdown%2f" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook"></a>
+        <a class="icon-facebook-squared" href="https://www.facebook.com/sharer/sharer.php?u=%2fpost%2fwelcome-ggdo2%2f" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook"></a>
     </li>
     <li>
-        <a class="icon-twitter" href="https://twitter.com/share?text=Hello%20R%20Markdown&amp;url=%2fpost%2f2015-07-23-r-rmarkdown%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Tweet this article"></a>
+        <a class="icon-twitter" href="https://twitter.com/share?text=welcome-ggdo2&amp;url=%2fpost%2fwelcome-ggdo2%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Tweet this article"></a>
     </li>
     <li>
-        <a class="icon-gplus" href="https://plus.google.com/share?url=%2fpost%2f2015-07-23-r-rmarkdown%2f" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" title="Share on Google&#43;"></a>
+        <a class="icon-gplus" href="https://plus.google.com/share?url=%2fpost%2fwelcome-ggdo2%2f" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" title="Share on Google&#43;"></a>
     </li>
     <li>
-        <a class="icon-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=%2fpost%2f2015-07-23-r-rmarkdown%2f&title=Hello%20R%20Markdown" onclick="window.open(this.href, 'linkedin-share', 'width=600,height=494');return false;" title="Share on Linkedin"></a>
+        <a class="icon-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=%2fpost%2fwelcome-ggdo2%2f&title=welcome-ggdo2" onclick="window.open(this.href, 'linkedin-share', 'width=600,height=494');return false;" title="Share on Linkedin"></a>
     </li>
 </ul>
 

@@ -1,0 +1,1 @@
+variable,type,descriptionbusLocationList,String,버스위치정보 목록routeId,String,노선 IDstationId,String,정류소 IDstationSeq,String,정류소 순서endBus,String,"막차 여부 (0:해당사항없음, 1:막차)"lowPlate,String,"저상버스 여부 (0:일반버스, 1:저상버스)"plateNo,String,차량 번호remainSeatCnt,String,"차량 빈자리 수 (-1:정보없음, 0~:빈자리 수)"

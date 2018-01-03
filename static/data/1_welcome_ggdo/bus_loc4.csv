@@ -1,0 +1,1 @@
+variable,type,descriptionbaseInfoItem,String,기반정보 목록routeVersion,String,노선정보 버전routeDownloadUrl,String,노선정보 다운로드 경로stationVersion,String,정류소 정보 버전stationDownloadUrl,String,정류소 정보 다운로드 경로routeStationVersion,String,노선-정류소 정보 버전routeStationDownloadUrl,String,노선-정류소 정보 다운로드 경로areaVersion,String,운행지역 정보 버전areaDownloadUrl,String,운행지역 정보 다운로드 경로

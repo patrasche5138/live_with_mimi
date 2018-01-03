@@ -1,0 +1,1 @@
+variable,type,descriptionBusStationList,String,정류소목록stationId,String,정류소아이디stationName,String,정류소명mobileNo,String,정류소 번호 (고유 5자리 모바일 번호)regionName,String,지역명 (정류소가 위치하는 지역의 명칭)districtCd,String,"관할지역 (1:서울, 2:경기, 3:인천)"centerYN,String,"중앙차로여부 (N : 일반, Y : 중앙차로)"X,String,정류소 X좌표Y,String,정류소 Y좌표

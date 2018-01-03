@@ -1,0 +1,65 @@
+---
+title: welcome-ggdo2
+author: Chulmin Lee
+date: '2018-01-03'
+slug: welcome-ggdo2
+categories:
+  - 데이터분석
+  - 출근
+  - R
+tags:
+  - 버스
+  - 경기도
+  - 데이터분석
+runtime: shiny
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+    theme: lumen
+    highlight: kate
+---
+
+```{r, echo = FALSE}
+# Loading libraries
+library(data.table)
+library(DT)
+library(shiny)
+```
+
+<h3>**과연 언제 어디에서 버스를 타야 앉아서 출근 할 수 있을까?**</h3>
+버스를 타기위해 버스앱을 자주 이용한다. 앱을 보면 버스의 도착예상시간, 여유좌석 정보를 제공하고 있다. 그래서 분명 어디선가에서 이 정보를 제공하고 있을 거라는 생각에 찾아보니 [굿모닝 경기 경기버스정보](gbis.go.kr)에서 버스관련 여러 데이터를 무료로 제공하고 있었다. 아쉬운점은 뒤에도 이야기 하겠지만 하루에 1000건 밖에 API호출이 안된다는 것이다. 
+
+API를 이용하기 위해서는 우선 공공데이터 포털에 등록을 하고, KEY를 받아야 한다. Key를 받았으면 그 키를 이용해 버스관련 여러 정보를 받을 수 있다. 자세한 내용은 (API로 버스 데이터 수집하기) 참조
+
+```{r, echo = FALSE}
+api_file <- c("bus_loc1.csv", "bus_loc2.csv", "bus_loc3.csv",
+              "bus_loc4.csv", "bus_loc5.csv", "bus_loc6.csv",
+              "bus_loc7.csv")
+api_name <- c("버스위치정보 조회","버스도착정보 목록조회","버스도착정보 항목조회","기반정보 조회","정류소명/번호 목록조회","주변정류소 목록조회","정류소경유노선 목록조회")
+
+api_data <- data.frame(api_file, api_name)
+
+shinyApp(
+  ui = fluidPage(
+    inputPanel(
+      selectInput("api_list", label = "API 제공데이터",
+                  choices = api_data$api_name, 
+                  selected = api_data$api_name[1]))
+  ),
+  server = function(input, output) {
+    selected_api <- subset(api_data, api_data$api_name == input$api_list)
+    api_table <- fread(paste0("data/1_welcome_ggdo/",selected_api$api_file))
+    output$table <- renderDataTable({
+      api_table
+      })
+  },
+  options = list(height = 500)
+)
+
+```
+
+
+우선 경기도 버스리스트와 정류장 (POI)데이터를 다운 받은후 화성시에서 강남구로 가는 버스와 그 버스가 정차하는 정류장 들을 찾아보았다. 몰랐는데 여러 버스들이 동탄에서 강남구로 가고 있었다. 
+

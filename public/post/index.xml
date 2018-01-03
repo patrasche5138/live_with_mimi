@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
     <copyright>Chulmin Lee</copyright>
-    <lastBuildDate>Fri, 29 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>welcome-ggdo2</title>
+      <link>/post/welcome-ggdo2/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcome-ggdo2/</guid>
+      <description>## ## Attaching package: &amp;#39;shiny&amp;#39; ## The following objects are masked from &amp;#39;package:DT&amp;#39;: ## ## dataTableOutput, renderDataTable  과연 언제 어디에서 버스를 타야 앉아서 출근 할 수 있을까?  버스를 타기위해 버스앱을 자주 이용한다. 앱을 보면 버스의 도착예상시간, 여유좌석 정보를 제공하고 있다. 그래서 분명 어디선가에서 이 정보를 제공하고 있을 거라는 생각에 찾아보니 굿모닝 경기 경기버스정보에서 버스관련 여러 데이터를 무료로 제공하고 있었다. 아쉬운점은 뒤에도 이야기 하겠지만 하루에 1000건 밖에 API호출이 안된다는 것이다.</description>
+    </item>
     
     <item>
       <title>어서와 경기도 버스는 처음이지? - Part 1</title>

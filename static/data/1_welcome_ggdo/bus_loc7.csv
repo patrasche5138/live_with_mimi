@@ -1,0 +1,1 @@
+variable,type,descriptionBusRouteList,String,정류소 경유노선 목록routeId,String,노선아이디routeName,String,노선번호routeTypeCd,String,노선유형routeTypeName,String,노선유형명regionName,String,운행지역districtCd,String,"관할지역 (1:서울, 2:경기, 3:인천)"staOrder,String,정류소 순번,,
