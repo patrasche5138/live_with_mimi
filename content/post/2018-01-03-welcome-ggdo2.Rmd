@@ -13,12 +13,7 @@ tags:
   - 데이터분석
 runtime: shiny
 output:
-  html_document:
-    toc: true
-    toc_float: true
-    number_sections: true
-    theme: lumen
-    highlight: kate
+  html_document
 ---
 
 ```{r, echo = FALSE}
